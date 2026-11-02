@@ -1,0 +1,12 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Lab2 - CRUD operations using fs module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kanak Gupta",
+  "license": "ISC"
+}
