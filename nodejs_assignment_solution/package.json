@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-programming-assignment",
+  "version": "1.0.0",
+  "description": "Solutions for the Node.js programming assignment",
+  "main": "q1_event_emitter.js",
+  "scripts": {
+    "q1": "node q1_event_emitter.js",
+    "q2": "node q2_attendance.js",
+    "q3": "node q3_http_server.js",
+    "q4": "node q4_todo_routes.js",
+    "q5": "node q5_bakery_express.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
