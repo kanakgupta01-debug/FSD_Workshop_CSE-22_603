@@ -1,0 +1,8 @@
+{
+  "name": "experiment2-html-routes",
+  "version": "1.0.0",
+  "description": "Express routes serving separate HTML files with the fs module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}
