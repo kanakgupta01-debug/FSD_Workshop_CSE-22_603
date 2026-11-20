@@ -1,0 +1,8 @@
+{
+  "name": "experiment1-http-methods",
+  "version": "1.0.0",
+  "description": "Express routes demonstrating GET, POST, PUT and DELETE",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^5.1.0" }
+}
